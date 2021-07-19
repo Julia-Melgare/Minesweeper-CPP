@@ -7,4 +7,4 @@ First, the game prompts you to choose the board size (only one side, ex. 25) and
 After that, you may input a coordinate on the game board (Ex. "10 10", "3 4", "21 3", etc.) to reveal a tile. If you want to use the power up, type "F" or "f" instead.
 
 ### Power up
-The power up implemented is called the "Metal Detector" - it allows you to reveal the location of a random mine in the board without losing the game. You can only use the metal detector one per game.
+The power up implemented is called the "Metal Detector" - it allows you to reveal the location of a random mine in the board without losing the game. You can only use the metal detector once per game.
